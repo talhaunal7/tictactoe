@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+}
+
+p {
+  margin-top: 0;
+  padding-top: 20px;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.5rem;
+}
+
+.credit {
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.title {
+  text-align: center;
+  font-size: 5rem;
+  background-color: #E8D0B3;
+  margin: 0 auto 0 auto;
+  color: #86340A;
+}
+
+.gameButtonContainer {
+  text-align: center;
+  background-color: #7EB5A6;
+  padding: 100px 0 100px 0;
+}
+
+.gameButtons {
+  width: 100px;
+  height: 100px;
+  background-color: #C36839;
+}
+
+.scoreBoard {
+  text-align: center;
+  background-color: #E8D0B3;
+  height: 300px;
+}
+
+.score {
+  display: inline-block;
+  font-size: 3rem;
+  color: #86340A;
+  margin-top: 0;
+}
