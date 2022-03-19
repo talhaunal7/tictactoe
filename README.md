@@ -1,6 +1,6 @@
 # tictactoe
 
-hi, this is a project that i made with html,css and javascript in order to practice things that i've been learning through Angela Yu's complete web development course.
+hi, this is a project that i made from scratch with html,css and javascript in order to practice things that i've been learning through Angela Yu's complete web development course.
 <br>
 My main focus was being able to use javascript with html and css, 
 <br>
